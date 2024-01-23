@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">🤖 Create Minecraft bots with a powerful, stable, and high level API using Docker<img src="https://raw.githubusercontent.com/the-lodestone-project/Amethyst-Cluster/c192c605d241d66c4224f8df2b18924d6aee46b5/assets/02-symbol_white-docker-logo.svg"></h4>
+<h4 align="center">🤖 Create Minecraft bots with a powerful, stable, and high level API using Docker<img width="25" src="https://raw.githubusercontent.com/the-lodestone-project/Amethyst-Cluster/c192c605d241d66c4224f8df2b18924d6aee46b5/assets/02-symbol_white-docker-logo.svg"></h4>
 
 <p align="center">
     <img alt="Node version" src="https://img.shields.io/static/v1?label=node&message=%20%3E=18.0.0&logo=node.js&color=2334D058" />
