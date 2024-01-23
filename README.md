@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/SilkePilon/lodestone/"><img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/08/Amethyst_Cluster_%28texture%29_JE1_BE1.png/revision/latest?cb=20201107040306" alt="Lodestone" width="250"></a>
+  <a href="https://github.com/SilkePilon/lodestone/"><img src="https://github.com/the-lodestone-project/Amethyst-Cluster/blob/main/assets/logo.png?raw=true" alt="Lodestone" width="250"></a>
   <br>
 </h1>
 
